@@ -3,16 +3,11 @@
 <h3><i>Spare some time to take a look at my <a href="#">portfolio</a>!</i></h3>
 
 
-# About myself
-I am a student of Indorama Engineering Polytechnic, Software Engineering Technology study program.
-
-My full name is Muhammad Azis, so you can call me "Azis". I'm a Software Engineer who specializes in the web frontend, but also has the ability to code on the web backend.
-
 # Github Statistic
 
 <p align="left">
 <a href="https://github.com/yudhistiradwiki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadAzis32&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistiradwiki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadAzis32&layout=compact&langs_count=8&theme=algolia"/>
 -->
