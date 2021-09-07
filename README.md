@@ -27,37 +27,3 @@ My full name is Muhammad Azis, so you can call me "Azis". I'm a Software Enginee
 ### Back End
 <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> 
 
-# Education
-
-<table>
-  <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-  </tr>
-  <tr>
-    <td>Ilmu Pengetahuan Sosial (IPS)</td>
-    <td>SMA NEGERI 1 WANAYASA</td>
-    <td>2016</td>
-  </tr>
-  <tr>
-    <td>Software Engineering </td>
-    <td>Politeknik Enjinering Indorama</td>
-    <td> - </td>
-  </tr>
-</table>
-    
-# Licences and Certifications
-
-- [Belajar Dasar Pemrograman Web - Dicoding](https://www.dicoding.com/certificates/JMZV2GOYOZN9)
-- [Belajar Membuat Front-End Web untuk Pemula - Dicoding](https://www.dicoding.com/certificates/MEPJLVDD4Z3V)
-- [Belajar Dasar Pemrograman JavaScript - Dicoding](https://www.dicoding.com/certificates/KEXL4DL84XG2)
-
-# Reach me on
-
-<a href="www.linkedin.com/in/azis32"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/muhamadazis32/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="https://lynk.id/azis32"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-
-                                                                    
-                                                                    
