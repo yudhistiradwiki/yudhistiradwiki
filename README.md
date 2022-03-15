@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Learn about Artificial Intelligence
 - ⚡ Fun fact: I love to play a mobile game
+- <img src="https://komarev.com/ghpvc/?username=yudhistiradwiki&label=Profile%20views&color=0e75b6&style=flat" alt="yudhistiradwiki" />
 
 ### Connect with me:
 
