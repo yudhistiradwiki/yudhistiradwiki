@@ -41,6 +41,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br>
 
   <a href="https://github.com/yudhistiradwiki">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistiradwiki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
